@@ -1,0 +1,127 @@
+body {
+  background-color: #141414;
+}
+.bigtitle {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 350px;
+  font-size: 80px;
+  font-family: sans-serif;
+}
+nav {
+  text-align: center;
+}
+.button-group {
+  position: absolute;
+  top: 40px;
+  width: 100%;
+  text-align: center;
+}
+.button {
+  text-decoration: none;
+  color: white;
+  margin: 0 20px;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+}
+.button:hover {
+  color: rgb(100, 100, 100);
+  opacity: 42%;
+  transition-duration: 0.22s;
+}
+.about-head {
+  color: white;
+  margin-left: 100px;
+  font-size: 67px;
+  margin-top: 100px;
+  font-family: sans-serif;
+}
+.about-group {
+  gap: 40px;
+}
+.introducing {
+  color: rgba(193, 190, 190, 0.592);
+  letter-spacing: 1px;
+  font-size: 20px;
+  margin-left: 100px;
+  margin-right: 300px;
+  margin-top: -30px;
+}
+.insta-link {
+  color: rgba(193, 190, 190, 0.592);
+  font-size: 20px;
+  margin-left: 100px;
+  margin-right: 300px;
+}
+.button-insta {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+.canbaba {
+  position: absolute;
+  right: 100px;
+  border-radius: 67p x;
+  padding-bottom: 400px;
+  width: 400px;
+  filter: grayscale(79%);
+}
+.button-social {
+  text-decoration: none;
+  color: white;
+  margin: 0 17px;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  letter-spacing: 1px;
+}
+.button-social:hover {
+  color: rgb(100, 100, 100);
+  opacity: 42%;
+  transition-duration: 0.22s;
+}
+.contact-me {
+  position: absolute;
+  text-decoration: none;
+  color: rgb(70, 70, 70);
+  font-size: 150px;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  left: 67px;
+}
+.contact-me:hover {
+  color: rgb(184, 183, 183);
+  opacity: 72%;
+  transition-duration: 0.39s;
+}
